@@ -16,3 +16,5 @@ The main reason for me to choose this architecture is that it allows us to separ
 2. **Adapter Layer**, this is the layer that represents our infrastructure layer such as frameworks, database, etc. It has the following sub-packages:
    - **input**, the input adapter that is used to receive any request from the clients.
    - **output**, the output adapter that is used to write into a database, etc.
+
+![Alt text](POINT-SYSTEM.png)
